@@ -1,0 +1,24 @@
+body {
+  background: #F8F8FF;
+  box-sizing: border-box;
+  padding: 20px;
+}
+
+.main {
+  height: 100vh;
+}
+
+.main-block {
+  background: rgba(255,255,255,.6);
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+}
+
+.color-name {
+  text-shadow: 1px 1px 1px #fff;
+}
+
+.divinate-button {
+  margin-top: 20px;
+}
